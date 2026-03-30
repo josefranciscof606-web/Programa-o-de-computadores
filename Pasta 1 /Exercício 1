@@ -1,0 +1,106 @@
+Letra ( A) 
+# Multiplicação de dois numeros
+
+inicio
+   a = 6
+   b = 8
+   mult = a * b
+   print("mult:",mult)
+fim
+
+Letra (b)
+#Média de cínco números
+
+inicio
+  n1= 4
+  n2= 6
+  n3= 7
+  n4= 2
+  n5= 3
+  media = ("n1 + n2 + n3 + n4 + n5)/5
+  print("media:",media)
+fim
+
+Letra (c)
+#Imposto 8%
+
+inicio 
+  preco = 90
+  imposto = preco * 0.08
+  resultado = preco + imposto
+  print("resultado:",resultado)
+fim
+
+Letra (d)
+#subtração
+
+inicio
+  a = 5 
+  b = 8
+  resul = a - b
+  print("resul:",resul)
+fim
+
+Letra (e)
+#imc
+
+inicio 
+  peso = 80
+  altura = 1.70
+  imc = peso / ( altura ** 2 )
+  print ("imc:",imc)
+fim
+
+Letra (f)
+#celsiu para fahrenheit
+
+inicio
+  c = 30
+  f = (9 * c / 5) + 32
+  pint("f:",f)
+fim
+
+Letra (G)
+#salario
+
+inicio 
+ horas = 36
+ valor = 15
+ salario = horas * valor 
+ print("salario:",salario)
+fim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
